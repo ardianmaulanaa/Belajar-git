@@ -1,1 +1,3 @@
 "Latihan pertama Git" 
+"baris kedua dari lokal" 
+"baris ketiga dari text editor"
